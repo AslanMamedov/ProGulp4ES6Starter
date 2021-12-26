@@ -1,0 +1,5 @@
+{
+	"src/js/**/*.js": "eslint --color",
+	"src/pug/**/*.pug": "pug-lint",
+	"src/scss/**/*.scss": "stylelint"
+}
